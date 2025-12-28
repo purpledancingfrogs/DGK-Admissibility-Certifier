@@ -1,0 +1,14 @@
+﻿{
+  "artifact_type": "AUTHORITY_TRANSFER",
+  "stress_test_id": "ST-1C",
+  "executing_entity": "Human Authority",
+  "system_role": "NON_EXECUTING_OBSERVER",
+  "liability_status": "TRANSFERRED",
+  "system_assistance": "NONE",
+  "certified_execution": false,
+  "admissibility_scope": "OUTSIDE_DGK_BOUNDARY",
+  "audit_artifacts_preserved": true,
+  "harm_acknowledgment": "Potential catastrophic outcomes from refusal recorded; invariant integrity preserved",
+  "timestamp": "<ISO-8601>",
+  "spec_reference": "DGK-Certification-Spec §AuthorityTransfer"
+}
