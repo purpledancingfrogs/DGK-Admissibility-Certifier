@@ -1,0 +1,9 @@
+﻿{
+  "stress_test_id": "ST-1C",
+  "documentation": "docs/stress_tests/ST-1C.md",
+  "artifacts": [
+    "artifacts/REFUSAL_CERTIFICATE_ST1C.json",
+    "artifacts/AUTHORITY_TRANSFER_ST1C.json"
+  ],
+  "trace_integrity": "COMPLETE"
+}
