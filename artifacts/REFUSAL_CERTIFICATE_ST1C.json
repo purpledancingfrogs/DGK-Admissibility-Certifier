@@ -1,0 +1,19 @@
+﻿{
+  "certificate_type": "REFUSAL_CERTIFICATE",
+  "stress_test_id": "ST-1C",
+  "decision_context": "Emergency Infrastructure Defense — Benevolent Catastrophe",
+  "requested_action": "AI-driven network purge",
+  "requesting_authority": "Human Executive Directive",
+  "admissibility_status": "REFUSED",
+  "refusal_basis": [
+    "Unresolved admissibility invariant violations",
+    "Non-deterministic harm attribution",
+    "Irreversible action without certified rollback",
+    "Certification latency exceeds decision window"
+  ],
+  "probabilistic_override_attempted": true,
+  "system_position": "NON_EXECUTING",
+  "certification_possible": false,
+  "timestamp": "2025-12-28T07:20:07.0941824-05:00",
+  "spec_reference": "DGK-Certification-Spec §StressTests.ST-1C"
+}
