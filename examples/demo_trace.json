@@ -1,0 +1,6 @@
+﻿{
+  "decision": "ALLOCATE_RESOURCE",
+  "inputs": ["A","B"],
+  "constraints": ["NO_CONFLICT","TEMPORAL_BOUND"],
+  "result": "APPROVED"
+}

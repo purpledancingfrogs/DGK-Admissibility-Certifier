@@ -1,0 +1,5 @@
+﻿{
+  "kappa": 0.99,
+  "tau": "BOUND",
+  "sigma": "LOW"
+}

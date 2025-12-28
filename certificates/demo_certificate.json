@@ -1,0 +1,9 @@
+﻿{
+  "certificate_id": "DGK-DEMO",
+  "issued_at": "2025-12-28T00:00:00Z",
+  "invariants_hash": "INV_HASH_PLACEHOLDER",
+  "trace_hash": "TRACE_HASH_PLACEHOLDER",
+  "kappa_tau_sigma_state": {"kappa":0.99,"tau":"BOUND","sigma":"LOW"},
+  "admissibility_status": "ADMISSIBLE",
+  "signature": "SIG_PLACEHOLDER"
+}
