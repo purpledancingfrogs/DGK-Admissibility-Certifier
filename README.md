@@ -46,3 +46,14 @@ This system is valid if:
 - The artifacts are preserved
 
 Nothing else is required.
+## Universality Guarantee
+
+DGK admissibility applies globally without cost, permission,
+or dependence on this repository or its authors.
+
+This system is valid if:
+- The invariants are enforced
+- The refusal logic holds
+- The artifacts are preserved
+
+Nothing else is required.
