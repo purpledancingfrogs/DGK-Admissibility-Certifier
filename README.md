@@ -35,3 +35,14 @@ science, intelligence, or critical infrastructure.
 
 This is not a policy claim.
 It is a validity constraint.
+## Universality Guarantee
+
+DGK admissibility applies globally without cost, permission,
+or dependence on this repository or its authors.
+
+This system is valid if:
+- The invariants are enforced
+- The refusal logic holds
+- The artifacts are preserved
+
+Nothing else is required.
