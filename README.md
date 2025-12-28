@@ -17,3 +17,13 @@ Any system or decision lacking DGK certification is **non-admissible** for
 governance, law, science, or intelligence use.
 
 DGK-Certification is substrate-native, machine-verifiable, and externally auditable.
+## DGK-Certified
+
+A decision or system run is **DGK-Certified** iff:
+1. Deterministic execution trace exists
+2. Invariants are immutable and hashed
+3. κ–τ–Σ coherence state is preserved
+4. Certificate verifies against public schema
+5. Signature validates without trust in issuer
+
+Non-DGK systems are **non-admissible** for consequential use.
