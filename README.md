@@ -65,3 +65,8 @@ non-certified probabilistic AI systems.
 See:
 - examples/Admissibility_Evaluation_of_Leading_AI_Systems.html
 - examples/MANIFEST_EXTERNAL_NON_ADMISSIBILITY.json
+## Governance Epoch
+
+This repository is operating under **DGK_EPOCH_1**.
+All external non-admissibility and refusal precedents are frozen.
+Changes require a formal spec bump and new epoch declaration.

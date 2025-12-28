@@ -1,0 +1,14 @@
+﻿{
+  "epoch_id": "DGK_EPOCH_1",
+  "effective_date": "2025-12-28T07:59:42.1525744-05:00",
+  "scope": "GLOBAL",
+  "primitives_locked": [
+    "EXTERNAL_NON_ADMISSIBILITY",
+    "REFUSAL_ARTIFACTS",
+    "AUTHORITY_TRANSFER",
+    "COURT_REFUSAL_CHAINS",
+    "PRECEDENT_LOCKS"
+  ],
+  "change_policy": "SPEC_BUMP_REQUIRED",
+  "override": "PROHIBITED"
+}

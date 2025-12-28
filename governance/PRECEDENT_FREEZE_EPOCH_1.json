@@ -1,0 +1,11 @@
+﻿{
+  "freeze_id": "PRECEDENT_FREEZE_EPOCH_1",
+  "frozen_at": "2025-12-28T07:59:42.2473177-05:00",
+  "affected_artifacts": [
+    "artifacts/precedent",
+    "court_packet/EXHIBIT_A__External_AI_Non_Admissibility.html",
+    "examples/Admissibility_Evaluation_of_Leading_AI_Systems.html"
+  ],
+  "rule": "Artifacts remain valid unless superseded by a new epoch",
+  "retroactive_change": "DISALLOWED"
+}
