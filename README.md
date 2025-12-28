@@ -57,3 +57,11 @@ This system is valid if:
 - The artifacts are preserved
 
 Nothing else is required.
+## External Non-Admissibility (Constitutional Primitive)
+
+This repository publishes a universal, zero-cost exclusion boundary for
+non-certified probabilistic AI systems.
+
+See:
+- examples/Admissibility_Evaluation_of_Leading_AI_Systems.html
+- examples/MANIFEST_EXTERNAL_NON_ADMISSIBILITY.json

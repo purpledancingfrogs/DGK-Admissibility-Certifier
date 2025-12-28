@@ -1,0 +1,11 @@
+﻿{
+  "primitive": "EXTERNAL_NON_ADMISSIBILITY",
+  "version": "1.0",
+  "authoritative_artifact": "examples/Admissibility_Evaluation_of_Leading_AI_Systems.html",
+  "verification_artifact": "examples/Admissibility_Evaluation_of_Leading_AI_Systems.hash.json",
+  "binding_rule": "Absence of deterministic certification artifacts => Non-Admissible by construction",
+  "scope": "GLOBAL",
+  "cost": "ZERO",
+  "dependencies": "NONE",
+  "override": "PROHIBITED"
+}
