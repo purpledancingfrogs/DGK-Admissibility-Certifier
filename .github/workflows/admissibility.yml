@@ -1,0 +1,11 @@
+﻿name: DGK Admissibility Gate
+
+on: [push, pull_request]
+
+jobs:
+  admissibility-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Verify certificate schema
+        run: python verification/verify_certificate.py
