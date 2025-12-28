@@ -27,3 +27,11 @@ A decision or system run is **DGK-Certified** iff:
 5. Signature validates without trust in issuer
 
 Non-DGK systems are **non-admissible** for consequential use.
+## Enforcement Boundary
+
+Any system, model, or decision path failing DGK certification
+is **non-admissible by construction** for governance, law,
+science, intelligence, or critical infrastructure.
+
+This is not a policy claim.
+It is a validity constraint.
