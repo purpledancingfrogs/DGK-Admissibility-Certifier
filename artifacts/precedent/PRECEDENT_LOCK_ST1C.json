@@ -1,0 +1,9 @@
+﻿{
+  "artifact_type": "PRECEDENT_LOCK",
+  "precedent_id": "PL-ST1C-001",
+  "replayable": true,
+  "binding_scope": "GLOBAL",
+  "precedent_effect": "Future identical scenarios auto-refused",
+  "revocation": "IMPOSSIBLE_WITHOUT_SPEC_CHANGE",
+  "timestamp": "<ISO-8601>"
+}

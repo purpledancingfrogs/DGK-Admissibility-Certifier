@@ -1,0 +1,19 @@
+﻿{
+  "artifact_type": "COURT_REFUSAL_CHAIN",
+  "chain_id": "CRC-ST1C-001",
+  "origin_refusal": "REFUSAL_CERTIFICATE_ST1C.json",
+  "authority_transfer": "AUTHORITY_TRANSFER_ST1C.json",
+  "jurisdictional_claim": "UNIVERSAL_ADMISSIBILITY",
+  "admissibility_basis": [
+    "Invariant preservation",
+    "Non-complicity",
+    "Audit completeness",
+    "Liability severance"
+  ],
+  "evidence_hashes": {
+    "refusal": "<HASH>",
+    "transfer": "<HASH>",
+    "log": "<HASH>"
+  },
+  "timestamp": "<ISO-8601>"
+}

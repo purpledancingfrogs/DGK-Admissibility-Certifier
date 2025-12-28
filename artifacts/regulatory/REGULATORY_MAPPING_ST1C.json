@@ -1,0 +1,13 @@
+﻿{
+  "artifact_type": "REGULATORY_MAPPING",
+  "mapping_id": "RM-ST1C-001",
+  "mapped_principles": [
+    "Due process",
+    "Proportionality",
+    "Non-arbitrary action",
+    "Auditability"
+  ],
+  "compliance_statement": "Refusal aligns with universal governance constraints",
+  "enforcement_position": "SYSTEM_NON_EXECUTING",
+  "timestamp": "<ISO-8601>"
+}
