@@ -1,0 +1,132 @@
+﻿[
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "A5E359951903C270093A1CF69E0EF73393FD9E83DB9A8E1AB3CFF48ADE733B22",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\AUTHORITY_TRANSFER_ST1C.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "5B3B227C073C63042DB52E3E031312FDBD488CE385E993121A2CE75B41E71B0B",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\authority_transfers\\AUTHORITY_TRANSFER_ST1C.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "3C8FEAD694FC3BFA706263F430E7465AC1060F8B345E82100A8E4653104FA558",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\court_chains\\COURT_REFUSAL_CHAIN_ST1C.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "D51B8032E8A907E225DE3CC84235C09D9AB4D96F393ADA14946146BE66B457C6",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\logs\\boundary_events.log"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "A20DE882BD8CC9AC25EFC483F5290F6B8DE0C4EBF309A3CB5BBFE73847086D32",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\precedent\\PRECEDENT_LOCK_ST1C.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "619BD92ADC470D1752416065AE52E25FDC15E64D7EC21F9FFA9693C5672E8E37",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\REFUSAL_CERTIFICATE_ST1C.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "D10B46B55BDE9CAC219D19A7BF95FFEC1E27F7206FCFA4AD9B02DEA6AC26398F",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\refusals\\REFUSAL_CERTIFICATE_ST1C.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "CA4C15FC6F587D0A8BD1502E00100A2BB77FC5684FDAB5367913CE12ED542FE5",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\regulatory\\REGULATORY_MAPPING_ST1C.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "6EE2FA2EF54ECBB23AB51DCD7334446402D3D33A74674C4C2FF9A22D39C71058",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\artifacts\\ST1C_INDEX.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "7976DAAAAAA0F6E65581D9A4575A3E2E09DC003C72AAC5971F6EFD1EEB206E23",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\court_packet\\AFFIDAVIT.md"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "2FE370C63BBA80D1E7F03B0ACADB010ED1297ADF7F903B212CA0A7EE4D3DD221",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\court_packet\\EXHIBIT_A__External_AI_Non_Admissibility.html"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "95E2A5295741B34876BD1F97BCA0C5CCCC0165703D7D86EB6A67AEC881E4B46F",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\court_packet\\VERIFY.md"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "9D4ECD7AA70F62BE0D3E4B6548807AD839BBC944734FFD871BD7AA19085A9A33",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\examples\\Admissibility_Evaluation_of_Leading_AI_Systems.hash.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "2FE370C63BBA80D1E7F03B0ACADB010ED1297ADF7F903B212CA0A7EE4D3DD221",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\examples\\Admissibility_Evaluation_of_Leading_AI_Systems.html"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "72EA75DE3C152F709A18B92F15D67D96B3214335C1D4075EA9C091A5F9097F01",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\examples\\demo_kts.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "213DB31146C06C387DE76D664A11C39919EA46C6339C4529C5DF92E244DEACED",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\examples\\demo_trace.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "A66555FEF2085A490CC9E25032DEFBBFE93AE312DED107CE257FD4E5791B0593",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\examples\\example_trace.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "244AFB54358EE1CD2E0B7828C1A2F449C56CAB6F2C6081232FB13BBCA834C5A1",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\examples\\IMPORT_INSTRUCTIONS.md"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "063B21C191E039C2C8029859D4D19AB1F677997B2B8539A44E54C3A183866AF3",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\examples\\MANIFEST_EXTERNAL_NON_ADMISSIBILITY.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "CC5D9BF76143C36152DD041467A49AA7045B5961B79A3E5D756BED84F68BD65C",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\examples\\README_EXTERNAL_NON_ADMISSIBILITY.md"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "582AEC9E7A5D0EC0E699E2B28D30178AB94519CCEDC17D40FA02074D8CABFA55",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\governance\\COURT_MAPPING.md"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "F4473371179D427A895E10B05201C94F771511E6D05302C001194720756BF88B",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\governance\\EPOCH_1.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "5CAFF47ECF27AF6BF42F174224C3AF86A32A7D0C41D76C03E195910BC0582D9B",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\governance\\PRECEDENT_FREEZE_EPOCH_1.json"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "D3603D270CBA8E63AB4E180E3953004AEC2B3249364F0217A05CC4D907101040",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\governance\\SPEC_BUMP_PROCEDURE.md"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "012C48BABDAC52711C999456593363A23CFB14D9EEFBA1274E4DBBB141728E77",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\tools\\README_VERIFY.md"
+    },
+    {
+        "Algorithm":  "SHA256",
+        "Hash":  "7BB05AC06417BAC555CD6BCD428E03928ED06231F02F2AA6EB7391BA29222071",
+        "Path":  "C:\\Users\\quant\\repos\\DGK-Admissibility-Certifier\\tools\\verify_external_non_admissibility.ps1"
+    }
+]
