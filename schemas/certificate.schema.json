@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DGK Admissibility Certificate",
+  "type": "object",
+  "required": ["certificate_id", "timestamp", "admissibility", "invariants", "signature"],
+  "properties": {
+    "certificate_id": { "type": "string" },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "admissibility": { "type": "string", "enum": ["ADMISSIBLE", "NON_ADMISSIBLE"] },
+    "invariants": { "type": "object" },
+    "signature": { "type": "string" }
+  }
+}
