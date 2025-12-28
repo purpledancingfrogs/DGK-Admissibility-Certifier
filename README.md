@@ -1,20 +1,19 @@
-﻿# DGK Admissibility Certifier
+﻿# DGK-Admissibility-Certifier
 
-A deterministic certification engine that evaluates execution artifacts from
-DGK-aligned substrates and emits machine-verifiable admissibility certificates.
+## DGK-Certified — Definition
 
-This repository defines **jurisdictional admissibility**, not performance,
-risk scoring, or probabilistic assessment.
+**DGK-Certified** denotes a decision, execution trace, or system run that satisfies
+the full Deterministic Governance Kernel (DGK) admissibility criteria.
 
-If certification fails, the system output is **non-admissible by construction**.
+A DGK-Certified artifact guarantees:
 
-## Scope
-- Deterministic certification only
-- Binary outcome: Admissible / Non-Admissible
-- External, trust-minimized verification
+- Paradox preservation (no forced collapse of contradictions)
+- Deterministic traceability and replayability
+- κ–τ–Σ coherence stabilization (ethical, temporal, systemic)
+- Temporal–meaning–decision binding
+- Epistemic hygiene under audit
 
-## Non-Goals
-- Model tuning
-- Ethics arbitration
-- Outcome prediction
-- Performance optimization
+Any system or decision lacking DGK certification is **non-admissible** for
+governance, law, science, or intelligence use.
+
+DGK-Certification is substrate-native, machine-verifiable, and externally auditable.

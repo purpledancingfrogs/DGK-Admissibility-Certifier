@@ -1,0 +1,19 @@
+﻿{
+  "certificate_type": "DGK_ADMISSIBILITY_CERTIFICATE",
+  "certificate_version": "1.0",
+  "issued_by": "DGK-Admissibility-Certifier",
+  "artifact_id": "example-trace-001",
+  "admissibility_status": "ADMISSIBLE",
+  "verified_properties": {
+    "paradox_preserved": true,
+    "deterministic_trace": true,
+    "coherence_stable": true,
+    "temporal_binding": true,
+    "audit_replayable": true
+  },
+  "signature": {
+    "scheme": "ed25519",
+    "public_key_id": "DGK-ROOT-KEY-001",
+    "signature_value": "PLACEHOLDER_SIGNATURE"
+  }
+}
