@@ -1,5 +1,6 @@
-﻿"""
-External certificate verification CLI.
+﻿import json
+from jsonschema import validate
 
-Verifies signature and invariant attestations without trusting issuer.
-"""
+def verify_certificate(cert, schema):
+    validate(instance=cert, schema=schema)
+    return 'VERIFIED'
