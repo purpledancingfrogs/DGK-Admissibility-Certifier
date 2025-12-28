@@ -1,0 +1,8 @@
+﻿{
+  "artifact": "Admissibility_Evaluation_of_Leading_AI_Systems.html",
+  "hash_algorithm": "SHA256",
+  "hash": "2FE370C63BBA80D1E7F03B0ACADB010ED1297ADF7F903B212CA0A7EE4D3DD221",
+  "verification": "Independent parties may recompute this hash to verify integrity.",
+  "spec_reference": "DGK-Certification-Spec §ExternalNonAdmissibility",
+  "status": "NON_ADMISSIBLE_BASELINE"
+}
