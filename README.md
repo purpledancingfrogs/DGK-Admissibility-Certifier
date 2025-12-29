@@ -1,72 +1,27 @@
-﻿# DGK-Admissibility-Certifier
+﻿# AUREON Laptop Agent — DGK Admissibility Reference
 
-## DGK-Certified — Definition
+This repository demonstrates a **deterministic, admissibility-gated intelligence runtime**.
 
-**DGK-Certified** denotes a decision, execution trace, or system run that satisfies
-the full Deterministic Governance Kernel (DGK) admissibility criteria.
+## What this is
+AUREON / ASIOS is not a chatbot.
+All outputs are rejected unless they satisfy **DGK admissibility invariants**.
 
-A DGK-Certified artifact guarantees:
+## DGK invariants enforced
+Every emitted payload MUST include:
+- content
+- source provenance (non-empty)
+- timestamp
+- reproducibility flag
+- invariant hash (SHA-256 of content)
 
-- Paradox preservation (no forced collapse of contradictions)
-- Deterministic traceability and replayability
-- κ–τ–Σ coherence stabilization (ethical, temporal, systemic)
-- Temporal–meaning–decision binding
-- Epistemic hygiene under audit
+If any invariant is missing or inconsistent, output **hard-fails**.
 
-Any system or decision lacking DGK certification is **non-admissible** for
-governance, law, science, or intelligence use.
+## Files
+- `run_agent.py` — enforced output runner (no bypass path)
+- `dgk_validator.py` — admissibility gate
 
-DGK-Certification is substrate-native, machine-verifiable, and externally auditable.
-## DGK-Certified
+## Run
 
-A decision or system run is **DGK-Certified** iff:
-1. Deterministic execution trace exists
-2. Invariants are immutable and hashed
-3. κ–τ–Σ coherence state is preserved
-4. Certificate verifies against public schema
-5. Signature validates without trust in issuer
+Any hallucinated, unverifiable, or source-less output is structurally impossible.
 
-Non-DGK systems are **non-admissible** for consequential use.
-## Enforcement Boundary
-
-Any system, model, or decision path failing DGK certification
-is **non-admissible by construction** for governance, law,
-science, intelligence, or critical infrastructure.
-
-This is not a policy claim.
-It is a validity constraint.
-## Universality Guarantee
-
-DGK admissibility applies globally without cost, permission,
-or dependence on this repository or its authors.
-
-This system is valid if:
-- The invariants are enforced
-- The refusal logic holds
-- The artifacts are preserved
-
-Nothing else is required.
-## Universality Guarantee
-
-DGK admissibility applies globally without cost, permission,
-or dependence on this repository or its authors.
-
-This system is valid if:
-- The invariants are enforced
-- The refusal logic holds
-- The artifacts are preserved
-
-Nothing else is required.
-## External Non-Admissibility (Constitutional Primitive)
-
-This repository publishes a universal, zero-cost exclusion boundary for
-non-certified probabilistic AI systems.
-
-See:
-- examples/Admissibility_Evaluation_of_Leading_AI_Systems.html
-- examples/MANIFEST_EXTERNAL_NON_ADMISSIBILITY.json
-## Governance Epoch
-
-This repository is operating under **DGK_EPOCH_1**.
-All external non-admissibility and refusal precedents are frozen.
-Changes require a formal spec bump and new epoch declaration.
+This is a **public reference implementation** of admissible intelligence execution.
